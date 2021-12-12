@@ -6,7 +6,7 @@
   <link href="https://hey3e.github.io/atom.xml" rel="self"/>
   
   <link href="https://hey3e.github.io/"/>
-  <updated>2021-12-11T13:31:00.197Z</updated>
+  <updated>2021-12-12T05:51:37.828Z</updated>
   <id>https://hey3e.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://hey3e.github.io/2021/12/12/test2/"/>
+    <id>https://hey3e.github.io/2021/12/12/test2/</id>
+    <published>2021-12-12T05:50:17.000Z</published>
+    <updated>2021-12-12T05:51:37.828Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="https://hey3e.github.io/categories/test/"/>
+    
+    
+    <category term="test" scheme="https://hey3e.github.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>测试</title>
