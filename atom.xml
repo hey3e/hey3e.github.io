@@ -6,7 +6,7 @@
   <link href="https://hey3e.github.io/atom.xml" rel="self"/>
   
   <link href="https://hey3e.github.io/"/>
-  <updated>2022-01-17T13:00:54.386Z</updated>
+  <updated>2022-03-03T11:12:14.403Z</updated>
   <id>https://hey3e.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JNI 101</title>
+    <link href="https://hey3e.github.io/2022/03/02/JNI-101/"/>
+    <id>https://hey3e.github.io/2022/03/02/JNI-101/</id>
+    <published>2022-03-02T03:31:57.000Z</published>
+    <updated>2022-03-03T11:12:14.403Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本章参考： 《深入理解Android 卷Ⅰ》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在逆向so文件时，我们经常遇到/发现：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;找不到Java层native函数对应的JNI函数；&lt;/li&gt;
+&lt;li&gt;要把JNI函数的第一个参数改为&lt;code&gt;JNIEnv *env&lt;/code&gt;以便识别；&lt;/li&gt;
+&lt;li&gt;加载so时，频繁调用&lt;code&gt;NewStringUTF&lt;/code&gt;、&lt;code&gt;ReleaseStringUTFChars&lt;/code&gt;等字符串函数。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在深入理解&lt;strong&gt;JNI (Java Native Interface)&lt;/strong&gt; 之后，我们可以解释上述现象。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://hey3e.github.io/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://hey3e.github.io/tags/Android/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaSec系列 - 4. 反序列化与JNDI注入(2)</title>
