@@ -6,7 +6,7 @@
   <link href="https://hey3e.github.io/atom.xml" rel="self"/>
   
   <link href="https://hey3e.github.io/"/>
-  <updated>2022-04-02T08:16:21.403Z</updated>
+  <updated>2022-04-02T08:20:05.592Z</updated>
   <id>https://hey3e.github.io/</id>
   
   <author>
@@ -21,18 +21,20 @@
     <link href="https://hey3e.github.io/2022/04/01/JavaSec%E7%B3%BB%E5%88%97-5-SpEL%E6%B3%A8%E5%85%A5/"/>
     <id>https://hey3e.github.io/2022/04/01/JavaSec%E7%B3%BB%E5%88%97-5-SpEL%E6%B3%A8%E5%85%A5/</id>
     <published>2022-04-01T05:38:05.000Z</published>
-    <updated>2022-04-02T08:16:21.403Z</updated>
+    <updated>2022-04-02T08:20:05.592Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;本章源码： &lt;a href=&quot;https://github.com/hey3e/JavaSec-Code/tree/main/javasec5&quot;&gt;https://github.com/hey3e/JavaSec-Code/tree/main/javasec5&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;先前，我们在&lt;a href=&quot;https://hey3e.github.io/2021/12/29/JavaSec%E7%B3%BB%E5%88%97-2-JNDI%E6%B3%A8%E5%85%A5/&quot;&gt;&lt;/a&gt;中jdk&amp;gt;8u191的环境下实现JNDI注入时，使用到了EL表达式。SpEL，是EL的一种，”Sp”代表”Spring”，即用于Spring的表达式。而最近，Spring Cloud爆出两个RCE，其原理均为SpEL注入，因此我们下面通过接触这两个实例来了解SpEL注入的实现。&lt;/p&gt;</summary>
+&lt;p&gt;先前，我们在&lt;a href=&quot;https://hey3e.github.io/2021/12/29/JavaSec%E7%B3%BB%E5%88%97-2-JNDI%E6%B3%A8%E5%85%A5/&quot;&gt;系列2&lt;/a&gt;中jdk&amp;gt;8u191的环境下实现JNDI注入时，使用到了EL表达式。SpEL，是EL的一种，”Sp”代表”Spring”，即用于Spring的表达式。而最近，Spring Cloud爆出两个RCE，其原理均为SpEL注入，因此我们下面通过接触这两个实例来了解SpEL注入的实现。&lt;/p&gt;</summary>
     
     
     
     <category term="JavaSec" scheme="https://hey3e.github.io/categories/JavaSec/"/>
     
+    
+    <category term="SpEL" scheme="https://hey3e.github.io/tags/SpEL/"/>
     
   </entry>
   
