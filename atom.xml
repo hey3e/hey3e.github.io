@@ -6,7 +6,7 @@
   <link href="https://hey3e.github.io/atom.xml" rel="self"/>
   
   <link href="https://hey3e.github.io/"/>
-  <updated>2022-04-02T08:20:05.592Z</updated>
+  <updated>2022-04-21T02:58:13.472Z</updated>
   <id>https://hey3e.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android加固系列-1-Dex101</title>
+    <link href="https://hey3e.github.io/2022/04/20/Android%E5%8A%A0%E5%9B%BA%E7%B3%BB%E5%88%97-1-Dex101/"/>
+    <id>https://hey3e.github.io/2022/04/20/Android%E5%8A%A0%E5%9B%BA%E7%B3%BB%E5%88%97-1-Dex101/</id>
+    <published>2022-04-20T07:43:18.000Z</published>
+    <updated>2022-04-21T02:58:13.472Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;工具源码： &lt;a href=&quot;https://github.com/hey3e/DexStrFinder&quot;&gt;https://github.com/hey3e/DexStrFinder&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;根据被加固的对象，Android加固可以分为两大类：Java层加固与Native层加固。Java层加固，主要针对的是Dex文件。因此，了解Dex是理解Java层加固的基础。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android加固" scheme="https://hey3e.github.io/categories/Android%E5%8A%A0%E5%9B%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>JavaSec系列 - 5. SpEL注入</title>
